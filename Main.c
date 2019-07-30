@@ -1,4 +1,8 @@
 #include math.h
 main{
-  printf("tes\n");
+  int i=0,j;
+  for ( j=0,j<10;j++ ){
+    printf("tes1 %d\n",j);
+    printf("tes\n");
+  }
 }
