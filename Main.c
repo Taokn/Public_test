@@ -5,5 +5,5 @@ main{
     printf("tes1 %d\n",j);
     printf("tes %d\n",i);
   }
-  printf(" %d\n"
+  printf(" %d\n",i);
 }
